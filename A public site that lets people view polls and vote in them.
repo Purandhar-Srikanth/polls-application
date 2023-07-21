@@ -1,1 +1,4 @@
+django-admin startproject polling_site
+cd polling_site
+python manage.py startapp polls
 
